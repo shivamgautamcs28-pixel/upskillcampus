@@ -1,0 +1,2 @@
+# No external dependencies required.
+# This project uses only Python's standard library (sqlite3, tkinter, unittest).

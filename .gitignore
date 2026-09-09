@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+quiz.db
+test_quiz.db
+venv/
+.venv/
+.DS_Store
