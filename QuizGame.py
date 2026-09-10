@@ -1,6 +1,7 @@
 """
 main.py
 Entry point for the Python Quiz Game.
+This project also require other files
 Ensures the database exists, then launches the GUI.
 """
 
